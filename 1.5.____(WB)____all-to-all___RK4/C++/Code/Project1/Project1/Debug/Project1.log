@@ -1,0 +1,67 @@
+﻿  Source.cpp
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(94,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(99,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(112,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(283,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(290,53): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(290,30): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(343,14): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(346,16): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(347,16): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(348,16): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(349,16): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(350,20): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(353,17): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(354,18): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(365,24): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(365,42): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(365,60): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(366,19): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(366,32): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(366,45): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(367,19): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(367,32): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(367,45): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(367,58): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(420,19): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(422,37): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(425,33): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(432,94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(440,19): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(444,24): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(465,11): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(465,20): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(465,29): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(465,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(465,47): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(465,56): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(494,19): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(494,32): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(494,45): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(494,58): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(494,71): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(495,19): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(495,32): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(495,45): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(495,58): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(495,71): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(495,84): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(556,35): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Project1\Source.cpp(575,45): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Project1.vcxproj -> E:\3.Models_of_population_Neurons\1.5.____(WB)____all-to-all___RK4\C++\Code\Project1\Debug\Project1.exe
