@@ -1,0 +1,19 @@
+﻿  Source.cpp
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\22.1.1400\22.1.1400\initial.h(98,19): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\22.1.1400\22.1.1400\initial.h(110,94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\22.1.1400\22.1.1400\initial.h(118,19): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\22.1.1400\22.1.1400\initial.h(122,24): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\22.1.1400\22.1.1400\Source.cpp(79,45): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  22.1.1400.vcxproj -> E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\22.1.1400\Debug\22.1.1400.exe
