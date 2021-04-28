@@ -1,0 +1,27 @@
+﻿  Source.cpp
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\WB\WangBuzsaki.h(310,19): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\WB\WangBuzsaki.h(322,94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\WB\WangBuzsaki.h(330,19): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\WB\WangBuzsaki.h(334,24): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\WB\WangBuzsaki.h(419,42): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\WB\WangBuzsaki.h(499,16): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\WB\WangBuzsaki.h(499,77): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\WB\WangBuzsaki.h(569,27): warning C4018: '<': signed/unsigned mismatch
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\WB\WangBuzsaki.h(126): warning C4715: 'WangBuzsaki::rand_borger_200': not all control paths return a value
+  WB.vcxproj -> E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\Debug\WB.exe
