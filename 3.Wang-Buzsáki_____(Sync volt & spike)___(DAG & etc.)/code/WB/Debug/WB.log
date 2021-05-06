@@ -1,0 +1,12 @@
+﻿  Source.cpp
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\WB\WangBuzsaki.h(199,42): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\WB\WangBuzsaki.h(233,5): warning C4018: '>': signed/unsigned mismatch
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\WB\WangBuzsaki.h(249,23): warning C4018: '<': signed/unsigned mismatch
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\WB\WangBuzsaki.h(266,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\WB\WangBuzsaki.h(351,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\WB\WangBuzsaki.h(457,27): warning C4018: '<': signed/unsigned mismatch
+  WB.vcxproj -> E:\3.Models_of_population_Neurons\2.____(WB)____(DAG)\C++\Code\Original\WB\Debug\WB.exe
